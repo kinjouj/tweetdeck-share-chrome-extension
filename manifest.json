@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "1.0",
+  "name": "tweetdeck share chrome extension",
+  "version": "0.1",
   "manifest_version": 2,
   "background": {
     "scripts": ["jquery.min.js", "bg.js"]
